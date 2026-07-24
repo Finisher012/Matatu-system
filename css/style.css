@@ -1,0 +1,42 @@
+body{
+    color: rgb(50, 6, 243);
+    font-family: Arial;
+    background:url(https://i.ytimg.com/vi/YqRYimrbbQ8/maxresdefault.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+
+.container{
+    width:400px;
+    margin:40px auto;
+    background:rgba(255, 255, 255,o.7);
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px gray;
+}
+
+h1{
+    color: bisque;
+    text-align:center;
+}
+
+p{
+    text-align:center;
+}
+
+label{
+    display:block;
+    margin-top:10px;
+}
+
+input,select{
+    width:100%;
+    padding:8px;
+    margin-top:5px;
+}
+
+input[type=submit],
+input[type=reset]{
+    width:48%;
+    margin-top:15px;
+}
