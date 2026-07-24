@@ -1,5 +1,5 @@
 body{
-    color: rgb(50, 6, 243);
+    color: rgb(14, 243, 6);
     font-family: Arial;
     background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeVEKk4yNp6uM1bqWj5YLwUFmJf7QhaWjxeUXs_gSvUQ&s=10);
     background-size:cover ;
@@ -9,7 +9,7 @@ body{
 .container{
     width:400px;
     margin:40px auto;
-    background:rgba(255, 255, 255,o.7);
+    background:rgba(0,0,0,o.4);
     padding:20px;
     border-radius:10px;
     box-shadow:0 0 10px gray;
